@@ -1,0 +1,10 @@
+c:\users\karlapatricia\documents\visual studio 2012\Projects\hola_mundo\hola_mundo\bin\Debug\hola_mundo.exe.config
+c:\users\karlapatricia\documents\visual studio 2012\Projects\hola_mundo\hola_mundo\bin\Debug\hola_mundo.exe
+c:\users\karlapatricia\documents\visual studio 2012\Projects\hola_mundo\hola_mundo\bin\Debug\hola_mundo.pdb
+c:\users\karlapatricia\documents\visual studio 2012\Projects\hola_mundo\hola_mundo\obj\Debug\hola_mundo.csprojResolveAssemblyReference.cache
+c:\users\karlapatricia\documents\visual studio 2012\Projects\hola_mundo\hola_mundo\obj\Debug\hola_mundo.Form1.resources
+c:\users\karlapatricia\documents\visual studio 2012\Projects\hola_mundo\hola_mundo\obj\Debug\hola_mundo.Properties.Resources.resources
+c:\users\karlapatricia\documents\visual studio 2012\Projects\hola_mundo\hola_mundo\obj\Debug\hola_mundo.csproj.GenerateResource.Cache
+c:\users\karlapatricia\documents\visual studio 2012\Projects\hola_mundo\hola_mundo\obj\Debug\hola_mundo.exe
+c:\users\karlapatricia\documents\visual studio 2012\Projects\hola_mundo\hola_mundo\obj\Debug\hola_mundo.pdb
+C:\Users\KarlaPatricia\documents\visual studio 2012\Projects\hola_mundo\hola_mundo\obj\Debug\hola_mundo.Form2.resources
